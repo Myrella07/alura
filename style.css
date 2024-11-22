@@ -1,6 +1,15 @@
 body{
     font-family: "Playfair", serif;
-    background: red;
-    color:dimgray;
+    background: darkred;
+    color:rgb(58, 55, 55);
+    margin:0px; 
+    margin-bottom:100px;
 
+}
+.chamada{
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
