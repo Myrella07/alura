@@ -1,12 +1,12 @@
 body{
     font-family: "Playfair", serif;
-    background: rgb(241, 20, 20);
+    background: rgb(0, 0, 0);
     color:rgb(58, 55, 55);
     margin:0px; 
     margin-bottom:100px;
 }
 .chamada{
-    background-color: rgb(248, 87, 66);
+    background-color: rgb(243, 16, 16);
     display: flex;
     justify-content: center;
     margin-top: 80px;
